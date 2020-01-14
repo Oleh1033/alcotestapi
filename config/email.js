@@ -1,0 +1,281 @@
+module.exports = {
+    template: `
+    <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=400" />
+    <title>Message</title>
+    <link rel="shortcut icon" href="https://tilda.ws/img/tildafavicon.ico" />
+    <style type="text/css">
+        .ExternalClass {
+            width: 100%;
+        }
+
+        img {
+            border: 0 none;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        a img {
+            border: 0 none;
+        }
+
+        #outlook a {
+            padding: 0;
+        }
+
+        #allrecords {
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            -webkit-font-smoothing: antialiased;
+            line-height: 1.45;
+        }
+
+        #allrecords td {
+            margin: 0;
+            padding: 0;
+        }
+
+        #allrecords ul {
+            -webkit-padding-start: 30px;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .r {
+                width: 100% !important;
+                min-width: 400px !important;
+            }
+        }
+
+        @media only screen and (max-width: 480px) {
+            .t-emailBlock {
+                display: block !important;
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+                width: 100% !important;
+            }
+
+            .t-emailBlockPadding {
+                padding-top: 15px !important;
+            }
+
+            .t-emailBlockPadding30 {
+                padding-top: 30px !important;
+            }
+
+            .t-emailAlignLeft {
+                text-align: left !important;
+                margin-left: 0 !important;
+            }
+
+            .t-emailAlignCenter {
+                text-align: center !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+        }
+    </style>
+</head>
+
+<body cellpadding="0" cellspacing="0"
+    style="padding: 0; margin: 0; border: 0; width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; background-color: #efefef;">
+    <!--allrecords-->
+    <table id="allrecords" data-tilda-email="yes" data-tilda-project-id="1394840" data-tilda-page-id="6109777"
+        data-tilda-page-alias="" cellpadding="0" cellspacing="0"
+        style="width:100%; border-collapse:collapse; border-spacing:0; padding:0; margin:0; border:0;">
+        <tr>
+            <td style="background-color: #efefef; ">
+                <!--record_mail-->
+                <table id="rec108702680"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="619">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702680" class="r" style="margin: 0 auto;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td style="padding-top:0px;padding-bottom:0px;padding-left:0;padding-right:0;">
+                                        <table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td style="height:30px;" height="30px"></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+                <!--record_mail-->
+                <table id="rec108702681"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="322">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702681" class="r" style="margin: 0 auto;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td style="padding-top:0px;padding-bottom:0px;padding-left:0;padding-right:0;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                            style="width:100%;">
+                                            <tr>
+                                                <td style="width:100%; text-align: center;"> <a href="https://tilda.cc"
+                                                        target="_blank"> <img width="600" align="center"
+                                                            style="width: 100%; height: auto;"
+                                                            src="https://static.tildacdn.com/tild6436-3831-4532-b538-383737376232/orangelogo2222.png"
+                                                            imgfield="img"> </a> </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+                <!--record_mail-->
+                <table id="rec108702682"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="323">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702682" class="r"
+                                style="margin: 0 auto;background-color:#ffffff;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td
+                                        style="padding-top:30px;padding-bottom:15px;padding-left:30px;padding-right:30px;">
+                                        <table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                            style="width: 100%;">
+                                            <tr>
+                                                <td style="text-align: left; padding: 0 0 0;">
+                                                    <div
+                                                        style="margin-right: auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#222222;font-size:28px;font-weight:bold;">
+                                                        Good day, Jeremy Sammuels! We have a message for you!</div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+                <!--record_mail-->
+                <table id="rec108702683"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="329">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702683" class="r"
+                                style="margin: 0 auto;background-color:#ffffff;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td
+                                        style="padding-top:15px;padding-bottom:15px;padding-left:30px;padding-right:30px;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                            style="width: 100%;">
+                                            <tr>
+                                                <td style="text-align: left; padding: 0 0 0;">
+                                                    <div
+                                                        style="margin-right: auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#444444;font-size:20px;line-height:1.45;">
+                                                        Firs of all, thank you so much for being our customer and active
+                                                        subscriber. You have received one BiCool from Oleh Boburchak <br /></div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+                <!--record_mail-->
+                <table id="rec108702684"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="618">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702684" class="r"
+                                style="margin: 0 auto;background-color:#ffffff;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td
+                                        style="padding-top:30px;padding-bottom:45px;padding-left:30px;padding-right:30px;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%"
+                                            style="width:100%;">
+                                            <tr>
+                                                <td>
+                                                    <table border="0" cellpadding="0" cellspacing="0"
+                                                        style="margin: 0 auto;">
+                                                        <tr>
+                                                            <td> <a style="display: table-cell; text-decoration: none; padding: 15px 30px; font-size: 15px; text-align: center; font-weight: bold; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; width: 100%;color:#ffffff; border:0px solid ; background-color:#ff5a00; border-radius: 3px;"
+                                                                    href="https://bicoolback.azurewebsites.net"> You can
+                                                                    visit our portal </a> </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+                <!--record_mail-->
+                <table id="rec108702685"
+                    style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0"
+                    cellspacing="0" data-record-type="627">
+                    <tr>
+                        <td style="padding-left:15px; padding-right:15px; ">
+                            <table id="recin108702685" class="r" style="margin: 0 auto;border-spacing: 0;width:600px;"
+                                align="center">
+                                <tr>
+                                    <td
+                                        style="padding-top:30px;padding-bottom:30px;padding-left:30px;padding-right:30px;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td style="text-align: center;">
+                                                    <div
+                                                        style="margin: 0 auto; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#222222;font-size:16px;line-height:1.5;max-width:450px;">
+                                                        You have received this message because you have a subscription
+                                                        for Canny store news.</div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="text-align: center; padding-top: 25px;">
+                                                    <div
+                                                        style="margin: 0 auto; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#a1a1a1;font-size:14px;">
+                                                        You can unsubscribe from this letter anytime <a>here</a></div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--/record-->
+            </td>
+        </tr>
+    </table>
+    <!--/allrecords-->
+</body>
+
+</html>`
+}
