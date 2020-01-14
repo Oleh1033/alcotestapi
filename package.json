@@ -21,7 +21,7 @@
     "file-system": "^2.2.2",
     "googleapis": "^46.0.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "node-cron": "^2.0.3",
     "request-promise": "^4.2.4",
     "request-promise-native": "^1.0.7",
